@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KVRP_ KV Prasad! 
-- 👀 I’m interested in behaviour of algorithms because I came across AI 🐝 Business Margin! 
-- 🌱 I’m currently learning IT Project coordination& Financial model projects 
-- 💞️ I’m looking to collaborate on Planning& financial regulations!  
+- 👀 I’m interested in behaviour of ML algorithms because I came across AI 🐝 in an Infra. Solar project
+- 🌱 I’m currently learning IT Project coordination& Financial model projects on Infra.
+- 💞️ I’m looking to collaborate on Planning& financial regulations for Infra. Using ML 
 - 📫 How to reach me kvp11617483@outlook.com- 9959374124
 
 <!---
